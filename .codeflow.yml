@@ -8,3 +8,13 @@ secure:
   requires_mfa: true
   branches:
     - main
+secure:
+  required_reviews: 1
+  requires_mfa: true
+  branches:
+    - main
+secure:
+  required_reviews: 1
+  requires_mfa: true
+  branches:
+    - main
